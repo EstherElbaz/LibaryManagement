@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Id": "B1",
+    "FullName": "Alice Johnson",
+    "PhoneNumber": "123-456-7890",
+    "Email": "alice@example.com",
+    "BorrowHistory": []
+  },
+  {
+    "Id": "B2",
+    "FullName": "Bob Smith",
+    "PhoneNumber": "098-765-4321",
+    "Email": "bob@example.com",
+    "BorrowHistory": []
+  },
+  {
+    "Id": "B3",
+    "FullName": "Charlie Brown",
+    "PhoneNumber": "456-789-0123",
+    "Email": "charlie@example.com",
+    "BorrowHistory": []
+  }
+]

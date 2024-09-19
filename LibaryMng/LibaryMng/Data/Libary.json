@@ -1,0 +1,85 @@
+﻿{
+  "books": [
+    {
+      "Id": "FF1",
+      "Title": "Harry Potter and the Philosopher's Stone",
+      "AuthorId": "A3",
+      "Category": "Fiction",
+      "IsBorrowed": true,
+      "LastBorrowDate": "2023-09-12T00:00:00",
+      "IsActive": true
+    },
+    {
+      "Id": "BB2",
+      "Title": "The Theory of Everything",
+      "AuthorId": "A1",
+      "Category": "Science",
+      "IsBorrowed": false,
+      "LastBorrowDate": "2023-01-15T00:00:00",
+      "IsActive": true
+    },
+    {
+      "Id": "DF3",
+      "Title": "Cooking for Beginners",
+      "AuthorId": "A3",
+      "Category": "Cookbooks",
+      "IsBorrowed": false,
+      "LastBorrowDate": "2023-05-22T00:00:00",
+      "IsActive": true
+    },
+    {
+      "Id": "XS4",
+      "Title": "Alice in Wonderland",
+      "AuthorId": "A4",
+      "Category": "Children",
+      "IsBorrowed": true,
+      "LastBorrowDate": "2023-08-30T00:00:00",
+      "IsActive": true
+    }
+  ],
+  "borrowers": [
+    {
+      "Id": "B1",
+      "FullName": "Alice Johnson",
+      "PhoneNumber": "123-456-7890",
+      "Email": "alice@example.com",
+      "BorrowHistory": []
+    },
+    {
+      "Id": "B2",
+      "FullName": "Bob Smith",
+      "PhoneNumber": "098-765-4321",
+      "Email": "bob@example.com",
+      "BorrowHistory": []
+    },
+    {
+      "Id": "B3",
+      "FullName": "Charlie Brown",
+      "PhoneNumber": "456-789-0123",
+      "Email": "charlie@example.com",
+      "BorrowHistory": []
+    }
+  ],
+  "authors": [
+    {
+      "Id": "A1",
+      "Name": "J.K. Rowling",
+      "PublicationRange": [ 1997, 2007 ]
+    },
+    {
+      "Id": "A2",
+      "Name": "Stephen Hawking",
+      "PublicationRange": [ 1988, 2018 ]
+    },
+    {
+      "Id": "A3",
+      "Name": "Gordon Ramsay",
+      "PublicationRange": [ 2000, 2020 ]
+    },
+    {
+      "Id": "A4",
+      "Name": "Lewis Carroll",
+      "PublicationRange": [ 1865, 1871 ]
+    }
+  ]
+}

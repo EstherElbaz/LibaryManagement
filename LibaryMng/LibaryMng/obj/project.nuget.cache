@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cVCJLbRlZtr8s3OxC/rfK+tGR4XtrCVYKHgPkWy7ysoRLwOmeQ/u4AozQnDAmsIwb+29s+cPuh1TdtJtm1SHZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש זה\\Downloads\\LibaryManagement\\LibaryMng\\LibaryMng\\LibaryMng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\משתמש זה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

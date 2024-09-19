@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Id": "A1",
+    "Name": "J.K. Rowling",
+    "PublicationRange": [ 1997, 2007 ]
+  },
+  {
+    "Id": "A2",
+    "Name": "Stephen Hawking",
+    "PublicationRange": [ 1988, 2018 ]
+  },
+  {
+    "Id": "A3",
+    "Name": "Gordon Ramsay",
+    "PublicationRange": [ 2000, 2020 ]
+  },
+  {
+    "Id": "A4",
+    "Name": "Lewis Carroll",
+    "PublicationRange": [ 1865, 1871 ]
+  }
+]

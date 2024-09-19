@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "v0yi1HfC5N6Ny0RwUh2NsUbWWnQC/nbI3FpEUBVBaV0=",
+  "Source": "LibaryMng",
+  "BasePath": "_content/LibaryMng",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibaryMng\\wwwroot",
+      "Source": "LibaryMng",
+      "ContentRoot": "C:\\Users\\משתמש זה\\Downloads\\LibaryManagement\\LibaryMng\\LibaryMng\\wwwroot\\",
+      "BasePath": "_content/LibaryMng",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
