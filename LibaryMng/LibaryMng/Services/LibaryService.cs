@@ -8,10 +8,7 @@ namespace LibaryMng.Services
     public class LibaryService : ILibaryService
     {
         private ILibaryRepository _libaryRepository;
-        //כדי לשפר ביצועים הוספתי משתנה שישמור את כל הנתונים בקאש ,
-        //וכך ביצועי השליפות יהיו מהירים יותר 
-        //כמובן שכל שמירה של נתונים חדשים תהיה גם בdatabase.
-        //אתחול כרשימה ריקה, הפניה הראשונה לספריה בקונטרולר תגרום לטעינת הספרים
+       
        
         private List<Book> _books = new List<Book>();
         private List<Borrower> _borrowers = new List<Borrower>();
